@@ -1,6 +1,6 @@
-### Hi, what brought you here? lol😄
+## Hi, what brought you here? lol😄
 
-## Tech Stack ✨
+### Tech Stack 💻
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -8,7 +8,7 @@
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-## Hit me here 📫
+### Hit me here 📫
 [![Linkedin Badge](https://img.shields.io/badge/-MuhammadAlbab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-albab-88b1641ba/)](https://www.linkedin.com/in/muhammad-albab-88b1641ba/)
 [![Gmail Badge](https://img.shields.io/badge/-mrizkialbab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrizkialbab@gmail.com)](mailto:mrizkialbab@gmail.com)
 
