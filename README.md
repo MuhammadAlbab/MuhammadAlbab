@@ -8,7 +8,7 @@
 ![React.Js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-### Hit me here 📫
+### Hit me here 📧
 [![Linkedin Badge](https://img.shields.io/badge/-MuhammadAlbab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-albab-88b1641ba/)](https://www.linkedin.com/in/muhammad-albab-88b1641ba/)
 [![Gmail Badge](https://img.shields.io/badge/-mrizkialbab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrizkialbab@gmail.com)](mailto:mrizkialbab@gmail.com)
 
